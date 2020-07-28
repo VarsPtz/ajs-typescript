@@ -1,3 +1,10 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6f8p3pootabmww8g?svg=true)](https://ci.appveyor.com/project/VarsPtz/ajs-typescript)
+# Домашнее задание к лекции «TypeScript»
+
+**Важно**: все задачи допустимо выполнять в одном GitHub репозитории.
+
+**Важно**: тесты должны обеспечивать 100% покрытие тестируемых функций по строкам.
+
 **Важно**: вы можете использовать преднастроенный [шаблон](../ts-template/).
 
 
